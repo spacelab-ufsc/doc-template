@@ -1,0 +1,2 @@
+# doc-template
+Documentation template
