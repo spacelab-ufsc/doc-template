@@ -5,6 +5,7 @@ This a LaTeX template to use in the SpaceLab projects.
 ## Dependencies
 
 * ```latexmk```
+* ```texlive``
 
 ## Generating the PDF file
 

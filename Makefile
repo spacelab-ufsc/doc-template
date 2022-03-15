@@ -1,5 +1,6 @@
 SRC=main
-TARGET=doc-template
+DOC_VERSION=v0.0
+TARGET=slb-std-temp-$(DOC_VERSION)
 
 ifndef BUILD_DIR
 	BUILD_DIR=build
